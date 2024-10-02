@@ -1,0 +1,14 @@
+C:\Users\sabir\OneDrive\Рабочий стол\ConditionExample\ConditionExample\bin\Debug\net6.0\ConditionExample.exe
+C:\Users\sabir\OneDrive\Рабочий стол\ConditionExample\ConditionExample\bin\Debug\net6.0\ConditionExample.deps.json
+C:\Users\sabir\OneDrive\Рабочий стол\ConditionExample\ConditionExample\bin\Debug\net6.0\ConditionExample.runtimeconfig.json
+C:\Users\sabir\OneDrive\Рабочий стол\ConditionExample\ConditionExample\bin\Debug\net6.0\ConditionExample.dll
+C:\Users\sabir\OneDrive\Рабочий стол\ConditionExample\ConditionExample\bin\Debug\net6.0\ConditionExample.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\ConditionExample\ConditionExample\obj\Debug\net6.0\ConditionExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabir\OneDrive\Рабочий стол\ConditionExample\ConditionExample\obj\Debug\net6.0\ConditionExample.AssemblyInfoInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\ConditionExample\ConditionExample\obj\Debug\net6.0\ConditionExample.AssemblyInfo.cs
+C:\Users\sabir\OneDrive\Рабочий стол\ConditionExample\ConditionExample\obj\Debug\net6.0\ConditionExample.csproj.CoreCompileInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\ConditionExample\ConditionExample\obj\Debug\net6.0\ConditionExample.dll
+C:\Users\sabir\OneDrive\Рабочий стол\ConditionExample\ConditionExample\obj\Debug\net6.0\refint\ConditionExample.dll
+C:\Users\sabir\OneDrive\Рабочий стол\ConditionExample\ConditionExample\obj\Debug\net6.0\ConditionExample.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\ConditionExample\ConditionExample\obj\Debug\net6.0\ConditionExample.genruntimeconfig.cache
+C:\Users\sabir\OneDrive\Рабочий стол\ConditionExample\ConditionExample\obj\Debug\net6.0\ref\ConditionExample.dll
