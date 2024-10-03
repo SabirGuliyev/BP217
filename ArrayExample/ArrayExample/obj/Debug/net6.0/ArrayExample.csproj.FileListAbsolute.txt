@@ -1,0 +1,14 @@
+C:\Users\sabir\OneDrive\Рабочий стол\ArrayExample\ArrayExample\bin\Debug\net6.0\ArrayExample.exe
+C:\Users\sabir\OneDrive\Рабочий стол\ArrayExample\ArrayExample\bin\Debug\net6.0\ArrayExample.deps.json
+C:\Users\sabir\OneDrive\Рабочий стол\ArrayExample\ArrayExample\bin\Debug\net6.0\ArrayExample.runtimeconfig.json
+C:\Users\sabir\OneDrive\Рабочий стол\ArrayExample\ArrayExample\bin\Debug\net6.0\ArrayExample.dll
+C:\Users\sabir\OneDrive\Рабочий стол\ArrayExample\ArrayExample\bin\Debug\net6.0\ArrayExample.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\ArrayExample\ArrayExample\obj\Debug\net6.0\ArrayExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabir\OneDrive\Рабочий стол\ArrayExample\ArrayExample\obj\Debug\net6.0\ArrayExample.AssemblyInfoInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\ArrayExample\ArrayExample\obj\Debug\net6.0\ArrayExample.AssemblyInfo.cs
+C:\Users\sabir\OneDrive\Рабочий стол\ArrayExample\ArrayExample\obj\Debug\net6.0\ArrayExample.csproj.CoreCompileInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\ArrayExample\ArrayExample\obj\Debug\net6.0\ArrayExample.dll
+C:\Users\sabir\OneDrive\Рабочий стол\ArrayExample\ArrayExample\obj\Debug\net6.0\refint\ArrayExample.dll
+C:\Users\sabir\OneDrive\Рабочий стол\ArrayExample\ArrayExample\obj\Debug\net6.0\ArrayExample.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\ArrayExample\ArrayExample\obj\Debug\net6.0\ArrayExample.genruntimeconfig.cache
+C:\Users\sabir\OneDrive\Рабочий стол\ArrayExample\ArrayExample\obj\Debug\net6.0\ref\ArrayExample.dll
