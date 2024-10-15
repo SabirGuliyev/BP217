@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\EncapsulationAccessModifiers\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{69211349-EA0B-4C2D-AD51-FA0A04E4BC15}|EncapsulationAccessModifiers\\EncapsulationAccessModifiers.csproj|c:\\users\\sabir\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\encapsulationaccessmodifiers\\encapsulationaccessmodifiers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69211349-EA0B-4C2D-AD51-FA0A04E4BC15}|EncapsulationAccessModifiers\\EncapsulationAccessModifiers.csproj|solutionrelative:encapsulationaccessmodifiers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69211349-EA0B-4C2D-AD51-FA0A04E4BC15}|EncapsulationAccessModifiers\\EncapsulationAccessModifiers.csproj|c:\\users\\sabir\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\encapsulationaccessmodifiers\\encapsulationaccessmodifiers\\models\\personrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69211349-EA0B-4C2D-AD51-FA0A04E4BC15}|EncapsulationAccessModifiers\\EncapsulationAccessModifiers.csproj|solutionrelative:encapsulationaccessmodifiers\\models\\personrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69211349-EA0B-4C2D-AD51-FA0A04E4BC15}|EncapsulationAccessModifiers\\EncapsulationAccessModifiers.csproj|c:\\users\\sabir\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\encapsulationaccessmodifiers\\encapsulationaccessmodifiers\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69211349-EA0B-4C2D-AD51-FA0A04E4BC15}|EncapsulationAccessModifiers\\EncapsulationAccessModifiers.csproj|solutionrelative:encapsulationaccessmodifiers\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69211349-EA0B-4C2D-AD51-FA0A04E4BC15}|EncapsulationAccessModifiers\\EncapsulationAccessModifiers.csproj|c:\\users\\sabir\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\encapsulationaccessmodifiers\\encapsulationaccessmodifiers\\models\\studentrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69211349-EA0B-4C2D-AD51-FA0A04E4BC15}|EncapsulationAccessModifiers\\EncapsulationAccessModifiers.csproj|solutionrelative:encapsulationaccessmodifiers\\models\\studentrecord.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StudentRecord.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\EncapsulationAccessModifiers\\EncapsulationAccessModifiers\\Models\\StudentRecord.cs",
+              "RelativeDocumentMoniker": "EncapsulationAccessModifiers\\Models\\StudentRecord.cs",
+              "ToolTip": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\EncapsulationAccessModifiers\\EncapsulationAccessModifiers\\Models\\StudentRecord.cs",
+              "RelativeToolTip": "EncapsulationAccessModifiers\\Models\\StudentRecord.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T11:53:02.407Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PersonRecord.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\EncapsulationAccessModifiers\\EncapsulationAccessModifiers\\Models\\PersonRecord.cs",
+              "RelativeDocumentMoniker": "EncapsulationAccessModifiers\\Models\\PersonRecord.cs",
+              "ToolTip": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\EncapsulationAccessModifiers\\EncapsulationAccessModifiers\\Models\\PersonRecord.cs",
+              "RelativeToolTip": "EncapsulationAccessModifiers\\Models\\PersonRecord.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwBIAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T11:33:43.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\EncapsulationAccessModifiers\\EncapsulationAccessModifiers\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "EncapsulationAccessModifiers\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\EncapsulationAccessModifiers\\EncapsulationAccessModifiers\\Models\\Person.cs",
+              "RelativeToolTip": "EncapsulationAccessModifiers\\Models\\Person.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T11:30:32.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\EncapsulationAccessModifiers\\EncapsulationAccessModifiers\\Program.cs",
+              "RelativeDocumentMoniker": "EncapsulationAccessModifiers\\Program.cs",
+              "ToolTip": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\EncapsulationAccessModifiers\\EncapsulationAccessModifiers\\Program.cs",
+              "RelativeToolTip": "EncapsulationAccessModifiers\\Program.cs",
+              "ViewState": "AQIAAGQAAAAAAAAAAAAYwHEAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-15T10:16:14.289Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

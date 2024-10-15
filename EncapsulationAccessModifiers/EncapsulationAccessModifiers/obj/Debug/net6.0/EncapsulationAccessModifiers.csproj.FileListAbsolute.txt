@@ -1,0 +1,14 @@
+C:\Users\sabir\OneDrive\Рабочий стол\EncapsulationAccessModifiers\EncapsulationAccessModifiers\bin\Debug\net6.0\EncapsulationAccessModifiers.exe
+C:\Users\sabir\OneDrive\Рабочий стол\EncapsulationAccessModifiers\EncapsulationAccessModifiers\bin\Debug\net6.0\EncapsulationAccessModifiers.deps.json
+C:\Users\sabir\OneDrive\Рабочий стол\EncapsulationAccessModifiers\EncapsulationAccessModifiers\bin\Debug\net6.0\EncapsulationAccessModifiers.runtimeconfig.json
+C:\Users\sabir\OneDrive\Рабочий стол\EncapsulationAccessModifiers\EncapsulationAccessModifiers\bin\Debug\net6.0\EncapsulationAccessModifiers.dll
+C:\Users\sabir\OneDrive\Рабочий стол\EncapsulationAccessModifiers\EncapsulationAccessModifiers\bin\Debug\net6.0\EncapsulationAccessModifiers.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\EncapsulationAccessModifiers\EncapsulationAccessModifiers\obj\Debug\net6.0\EncapsulationAccessModifiers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabir\OneDrive\Рабочий стол\EncapsulationAccessModifiers\EncapsulationAccessModifiers\obj\Debug\net6.0\EncapsulationAccessModifiers.AssemblyInfoInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\EncapsulationAccessModifiers\EncapsulationAccessModifiers\obj\Debug\net6.0\EncapsulationAccessModifiers.AssemblyInfo.cs
+C:\Users\sabir\OneDrive\Рабочий стол\EncapsulationAccessModifiers\EncapsulationAccessModifiers\obj\Debug\net6.0\EncapsulationAccessModifiers.csproj.CoreCompileInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\EncapsulationAccessModifiers\EncapsulationAccessModifiers\obj\Debug\net6.0\EncapsulationAccessModifiers.dll
+C:\Users\sabir\OneDrive\Рабочий стол\EncapsulationAccessModifiers\EncapsulationAccessModifiers\obj\Debug\net6.0\refint\EncapsulationAccessModifiers.dll
+C:\Users\sabir\OneDrive\Рабочий стол\EncapsulationAccessModifiers\EncapsulationAccessModifiers\obj\Debug\net6.0\EncapsulationAccessModifiers.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\EncapsulationAccessModifiers\EncapsulationAccessModifiers\obj\Debug\net6.0\EncapsulationAccessModifiers.genruntimeconfig.cache
+C:\Users\sabir\OneDrive\Рабочий стол\EncapsulationAccessModifiers\EncapsulationAccessModifiers\obj\Debug\net6.0\ref\EncapsulationAccessModifiers.dll
