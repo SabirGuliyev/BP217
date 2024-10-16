@@ -1,0 +1,126 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NamespaceExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0259C12F-4E89-4DAB-8C74-71FB36389F77}|NamespaceExample\\NamespaceExample.csproj|c:\\users\\sabir\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\namespaceexample\\namespaceexample\\education\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0259C12F-4E89-4DAB-8C74-71FB36389F77}|NamespaceExample\\NamespaceExample.csproj|solutionrelative:namespaceexample\\education\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0259C12F-4E89-4DAB-8C74-71FB36389F77}|NamespaceExample\\NamespaceExample.csproj|c:\\users\\sabir\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\namespaceexample\\namespaceexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0259C12F-4E89-4DAB-8C74-71FB36389F77}|NamespaceExample\\NamespaceExample.csproj|solutionrelative:namespaceexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0259C12F-4E89-4DAB-8C74-71FB36389F77}|NamespaceExample\\NamespaceExample.csproj|c:\\users\\sabir\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\namespaceexample\\namespaceexample\\education\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0259C12F-4E89-4DAB-8C74-71FB36389F77}|NamespaceExample\\NamespaceExample.csproj|solutionrelative:namespaceexample\\education\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0259C12F-4E89-4DAB-8C74-71FB36389F77}|NamespaceExample\\NamespaceExample.csproj|c:\\users\\sabir\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\namespaceexample\\namespaceexample\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0259C12F-4E89-4DAB-8C74-71FB36389F77}|NamespaceExample\\NamespaceExample.csproj|solutionrelative:namespaceexample\\models\\base\\baseentity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0259C12F-4E89-4DAB-8C74-71FB36389F77}|NamespaceExample\\NamespaceExample.csproj|c:\\users\\sabir\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\namespaceexample\\namespaceexample\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0259C12F-4E89-4DAB-8C74-71FB36389F77}|NamespaceExample\\NamespaceExample.csproj|solutionrelative:namespaceexample\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0259C12F-4E89-4DAB-8C74-71FB36389F77}|NamespaceExample\\NamespaceExample.csproj|c:\\users\\sabir\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\namespaceexample\\namespaceexample\\namespaceexample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0259C12F-4E89-4DAB-8C74-71FB36389F77}|NamespaceExample\\NamespaceExample.csproj|solutionrelative:namespaceexample\\namespaceexample.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NamespaceExample\\NamespaceExample\\Education\\Group.cs",
+              "RelativeDocumentMoniker": "NamespaceExample\\Education\\Group.cs",
+              "ToolTip": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NamespaceExample\\NamespaceExample\\Education\\Group.cs",
+              "RelativeToolTip": "NamespaceExample\\Education\\Group.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwA8AAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T12:11:41.995Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NamespaceExample\\NamespaceExample\\Education\\Student.cs",
+              "RelativeDocumentMoniker": "NamespaceExample\\Education\\Student.cs",
+              "ToolTip": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NamespaceExample\\NamespaceExample\\Education\\Student.cs",
+              "RelativeToolTip": "NamespaceExample\\Education\\Student.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAIwA8AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T12:10:54.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NamespaceExample",
+              "DocumentMoniker": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NamespaceExample\\NamespaceExample\\NamespaceExample.csproj",
+              "RelativeDocumentMoniker": "NamespaceExample\\NamespaceExample.csproj",
+              "ToolTip": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NamespaceExample\\NamespaceExample\\NamespaceExample.csproj",
+              "RelativeToolTip": "NamespaceExample\\NamespaceExample.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-16T11:21:14.359Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BaseEntity.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NamespaceExample\\NamespaceExample\\Models\\Base\\BaseEntity.cs",
+              "RelativeDocumentMoniker": "NamespaceExample\\Models\\Base\\BaseEntity.cs",
+              "ToolTip": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NamespaceExample\\NamespaceExample\\Models\\Base\\BaseEntity.cs",
+              "RelativeToolTip": "NamespaceExample\\Models\\Base\\BaseEntity.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T11:12:22.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NamespaceExample\\NamespaceExample\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "NamespaceExample\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NamespaceExample\\NamespaceExample\\Models\\Person.cs",
+              "RelativeToolTip": "NamespaceExample\\Models\\Person.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T11:09:07.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NamespaceExample\\NamespaceExample\\Program.cs",
+              "RelativeDocumentMoniker": "NamespaceExample\\Program.cs",
+              "ToolTip": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NamespaceExample\\NamespaceExample\\Program.cs",
+              "RelativeToolTip": "NamespaceExample\\Program.cs",
+              "ViewState": "AQIAAEEAAAAAAAAAAAAWwFEAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-16T11:06:42.472Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
