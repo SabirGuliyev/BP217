@@ -1,0 +1,14 @@
+C:\Users\sabir\OneDrive\Рабочий стол\AbstractExample\AbstractExample\bin\Debug\net6.0\AbstractExample.exe
+C:\Users\sabir\OneDrive\Рабочий стол\AbstractExample\AbstractExample\bin\Debug\net6.0\AbstractExample.deps.json
+C:\Users\sabir\OneDrive\Рабочий стол\AbstractExample\AbstractExample\bin\Debug\net6.0\AbstractExample.runtimeconfig.json
+C:\Users\sabir\OneDrive\Рабочий стол\AbstractExample\AbstractExample\bin\Debug\net6.0\AbstractExample.dll
+C:\Users\sabir\OneDrive\Рабочий стол\AbstractExample\AbstractExample\bin\Debug\net6.0\AbstractExample.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\AbstractExample\AbstractExample\obj\Debug\net6.0\AbstractExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabir\OneDrive\Рабочий стол\AbstractExample\AbstractExample\obj\Debug\net6.0\AbstractExample.AssemblyInfoInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\AbstractExample\AbstractExample\obj\Debug\net6.0\AbstractExample.AssemblyInfo.cs
+C:\Users\sabir\OneDrive\Рабочий стол\AbstractExample\AbstractExample\obj\Debug\net6.0\AbstractExample.csproj.CoreCompileInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\AbstractExample\AbstractExample\obj\Debug\net6.0\AbstractExample.dll
+C:\Users\sabir\OneDrive\Рабочий стол\AbstractExample\AbstractExample\obj\Debug\net6.0\refint\AbstractExample.dll
+C:\Users\sabir\OneDrive\Рабочий стол\AbstractExample\AbstractExample\obj\Debug\net6.0\AbstractExample.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\AbstractExample\AbstractExample\obj\Debug\net6.0\AbstractExample.genruntimeconfig.cache
+C:\Users\sabir\OneDrive\Рабочий стол\AbstractExample\AbstractExample\obj\Debug\net6.0\ref\AbstractExample.dll
