@@ -1,0 +1,14 @@
+C:\Users\sabir\OneDrive\Рабочий стол\InterfaceExample\InterfaceExample\bin\Debug\net6.0\InterfaceExample.exe
+C:\Users\sabir\OneDrive\Рабочий стол\InterfaceExample\InterfaceExample\bin\Debug\net6.0\InterfaceExample.deps.json
+C:\Users\sabir\OneDrive\Рабочий стол\InterfaceExample\InterfaceExample\bin\Debug\net6.0\InterfaceExample.runtimeconfig.json
+C:\Users\sabir\OneDrive\Рабочий стол\InterfaceExample\InterfaceExample\bin\Debug\net6.0\InterfaceExample.dll
+C:\Users\sabir\OneDrive\Рабочий стол\InterfaceExample\InterfaceExample\bin\Debug\net6.0\InterfaceExample.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\InterfaceExample\InterfaceExample\obj\Debug\net6.0\InterfaceExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabir\OneDrive\Рабочий стол\InterfaceExample\InterfaceExample\obj\Debug\net6.0\InterfaceExample.AssemblyInfoInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\InterfaceExample\InterfaceExample\obj\Debug\net6.0\InterfaceExample.AssemblyInfo.cs
+C:\Users\sabir\OneDrive\Рабочий стол\InterfaceExample\InterfaceExample\obj\Debug\net6.0\InterfaceExample.csproj.CoreCompileInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\InterfaceExample\InterfaceExample\obj\Debug\net6.0\InterfaceExample.dll
+C:\Users\sabir\OneDrive\Рабочий стол\InterfaceExample\InterfaceExample\obj\Debug\net6.0\refint\InterfaceExample.dll
+C:\Users\sabir\OneDrive\Рабочий стол\InterfaceExample\InterfaceExample\obj\Debug\net6.0\InterfaceExample.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\InterfaceExample\InterfaceExample\obj\Debug\net6.0\InterfaceExample.genruntimeconfig.cache
+C:\Users\sabir\OneDrive\Рабочий стол\InterfaceExample\InterfaceExample\obj\Debug\net6.0\ref\InterfaceExample.dll
