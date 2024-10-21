@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "NullableStructEnum", "NullableStructEnum\NullableStructEnum.csproj", "{45D64D9F-5068-48AC-9879-174560C7F22D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45D64D9F-5068-48AC-9879-174560C7F22D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45D64D9F-5068-48AC-9879-174560C7F22D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45D64D9F-5068-48AC-9879-174560C7F22D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45D64D9F-5068-48AC-9879-174560C7F22D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4B579FE7-BCD2-4AFA-A75C-E16F83A68F2C}
+	EndGlobalSection
+EndGlobal
