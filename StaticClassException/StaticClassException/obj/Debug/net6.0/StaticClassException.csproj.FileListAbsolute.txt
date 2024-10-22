@@ -1,0 +1,14 @@
+C:\Users\sabir\OneDrive\Рабочий стол\StaticClassException\StaticClassException\bin\Debug\net6.0\StaticClassException.exe
+C:\Users\sabir\OneDrive\Рабочий стол\StaticClassException\StaticClassException\bin\Debug\net6.0\StaticClassException.deps.json
+C:\Users\sabir\OneDrive\Рабочий стол\StaticClassException\StaticClassException\bin\Debug\net6.0\StaticClassException.runtimeconfig.json
+C:\Users\sabir\OneDrive\Рабочий стол\StaticClassException\StaticClassException\bin\Debug\net6.0\StaticClassException.dll
+C:\Users\sabir\OneDrive\Рабочий стол\StaticClassException\StaticClassException\bin\Debug\net6.0\StaticClassException.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\StaticClassException\StaticClassException\obj\Debug\net6.0\StaticClassException.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabir\OneDrive\Рабочий стол\StaticClassException\StaticClassException\obj\Debug\net6.0\StaticClassException.AssemblyInfoInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\StaticClassException\StaticClassException\obj\Debug\net6.0\StaticClassException.AssemblyInfo.cs
+C:\Users\sabir\OneDrive\Рабочий стол\StaticClassException\StaticClassException\obj\Debug\net6.0\StaticClassException.csproj.CoreCompileInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\StaticClassException\StaticClassException\obj\Debug\net6.0\StaticClassException.dll
+C:\Users\sabir\OneDrive\Рабочий стол\StaticClassException\StaticClassException\obj\Debug\net6.0\refint\StaticClassException.dll
+C:\Users\sabir\OneDrive\Рабочий стол\StaticClassException\StaticClassException\obj\Debug\net6.0\StaticClassException.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\StaticClassException\StaticClassException\obj\Debug\net6.0\StaticClassException.genruntimeconfig.cache
+C:\Users\sabir\OneDrive\Рабочий стол\StaticClassException\StaticClassException\obj\Debug\net6.0\ref\StaticClassException.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StaticClassException", "StaticClassException\StaticClassException.csproj", "{9976E527-D5E4-45F0-8461-632A7E963F13}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9976E527-D5E4-45F0-8461-632A7E963F13}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9976E527-D5E4-45F0-8461-632A7E963F13}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9976E527-D5E4-45F0-8461-632A7E963F13}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9976E527-D5E4-45F0-8461-632A7E963F13}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {D800864F-EC99-4BFD-879B-9C6DB77ED652}
+	EndGlobalSection
+EndGlobal
