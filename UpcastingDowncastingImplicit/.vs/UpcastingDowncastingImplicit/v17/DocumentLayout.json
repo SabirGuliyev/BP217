@@ -1,0 +1,143 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\UpcastingDowncastingImplicit\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B328E66-28A2-4CF2-B80A-358543ED61C7}|UpcastingDowncastingImplicit\\UpcastingDowncastingImplicit.csproj|c:\\users\\sabir\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\upcastingdowncastingimplicit\\upcastingdowncastingimplicit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B328E66-28A2-4CF2-B80A-358543ED61C7}|UpcastingDowncastingImplicit\\UpcastingDowncastingImplicit.csproj|solutionrelative:upcastingdowncastingimplicit\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B328E66-28A2-4CF2-B80A-358543ED61C7}|UpcastingDowncastingImplicit\\UpcastingDowncastingImplicit.csproj|c:\\users\\sabir\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\upcastingdowncastingimplicit\\upcastingdowncastingimplicit\\models\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B328E66-28A2-4CF2-B80A-358543ED61C7}|UpcastingDowncastingImplicit\\UpcastingDowncastingImplicit.csproj|solutionrelative:upcastingdowncastingimplicit\\models\\dog.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B328E66-28A2-4CF2-B80A-358543ED61C7}|UpcastingDowncastingImplicit\\UpcastingDowncastingImplicit.csproj|c:\\users\\sabir\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\upcastingdowncastingimplicit\\upcastingdowncastingimplicit\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B328E66-28A2-4CF2-B80A-358543ED61C7}|UpcastingDowncastingImplicit\\UpcastingDowncastingImplicit.csproj|solutionrelative:upcastingdowncastingimplicit\\models\\animal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B328E66-28A2-4CF2-B80A-358543ED61C7}|UpcastingDowncastingImplicit\\UpcastingDowncastingImplicit.csproj|c:\\users\\sabir\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\upcastingdowncastingimplicit\\upcastingdowncastingimplicit\\exchanges\\manat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B328E66-28A2-4CF2-B80A-358543ED61C7}|UpcastingDowncastingImplicit\\UpcastingDowncastingImplicit.csproj|solutionrelative:upcastingdowncastingimplicit\\exchanges\\manat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B328E66-28A2-4CF2-B80A-358543ED61C7}|UpcastingDowncastingImplicit\\UpcastingDowncastingImplicit.csproj|c:\\users\\sabir\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\upcastingdowncastingimplicit\\upcastingdowncastingimplicit\\exchanges\\dollar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B328E66-28A2-4CF2-B80A-358543ED61C7}|UpcastingDowncastingImplicit\\UpcastingDowncastingImplicit.csproj|solutionrelative:upcastingdowncastingimplicit\\exchanges\\dollar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B328E66-28A2-4CF2-B80A-358543ED61C7}|UpcastingDowncastingImplicit\\UpcastingDowncastingImplicit.csproj|c:\\users\\sabir\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\upcastingdowncastingimplicit\\upcastingdowncastingimplicit\\upcastingdowncastingimplicit.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{6B328E66-28A2-4CF2-B80A-358543ED61C7}|UpcastingDowncastingImplicit\\UpcastingDowncastingImplicit.csproj|solutionrelative:upcastingdowncastingimplicit\\upcastingdowncastingimplicit.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B328E66-28A2-4CF2-B80A-358543ED61C7}|UpcastingDowncastingImplicit\\UpcastingDowncastingImplicit.csproj|c:\\users\\sabir\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\upcastingdowncastingimplicit\\upcastingdowncastingimplicit\\models\\eagle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B328E66-28A2-4CF2-B80A-358543ED61C7}|UpcastingDowncastingImplicit\\UpcastingDowncastingImplicit.csproj|solutionrelative:upcastingdowncastingimplicit\\models\\eagle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Manat.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\UpcastingDowncastingImplicit\\UpcastingDowncastingImplicit\\Exchanges\\Manat.cs",
+              "RelativeDocumentMoniker": "UpcastingDowncastingImplicit\\Exchanges\\Manat.cs",
+              "ToolTip": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\UpcastingDowncastingImplicit\\UpcastingDowncastingImplicit\\Exchanges\\Manat.cs",
+              "RelativeToolTip": "UpcastingDowncastingImplicit\\Exchanges\\Manat.cs",
+              "ViewState": "AQIAADYAAAAAAAAAAAAIwEUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T11:23:33.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Dollar.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\UpcastingDowncastingImplicit\\UpcastingDowncastingImplicit\\Exchanges\\Dollar.cs",
+              "RelativeDocumentMoniker": "UpcastingDowncastingImplicit\\Exchanges\\Dollar.cs",
+              "ToolTip": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\UpcastingDowncastingImplicit\\UpcastingDowncastingImplicit\\Exchanges\\Dollar.cs",
+              "RelativeToolTip": "UpcastingDowncastingImplicit\\Exchanges\\Dollar.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABQAAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T11:22:49.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UpcastingDowncastingImplicit",
+              "DocumentMoniker": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\UpcastingDowncastingImplicit\\UpcastingDowncastingImplicit\\UpcastingDowncastingImplicit.csproj",
+              "RelativeDocumentMoniker": "UpcastingDowncastingImplicit\\UpcastingDowncastingImplicit.csproj",
+              "ToolTip": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\UpcastingDowncastingImplicit\\UpcastingDowncastingImplicit\\UpcastingDowncastingImplicit.csproj",
+              "RelativeToolTip": "UpcastingDowncastingImplicit\\UpcastingDowncastingImplicit.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-23T11:22:27.599Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Eagle.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\UpcastingDowncastingImplicit\\UpcastingDowncastingImplicit\\Models\\Eagle.cs",
+              "RelativeDocumentMoniker": "UpcastingDowncastingImplicit\\Models\\Eagle.cs",
+              "ToolTip": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\UpcastingDowncastingImplicit\\UpcastingDowncastingImplicit\\Models\\Eagle.cs",
+              "RelativeToolTip": "UpcastingDowncastingImplicit\\Models\\Eagle.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T10:25:00.575Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dog.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\UpcastingDowncastingImplicit\\UpcastingDowncastingImplicit\\Models\\Dog.cs",
+              "RelativeDocumentMoniker": "UpcastingDowncastingImplicit\\Models\\Dog.cs",
+              "ToolTip": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\UpcastingDowncastingImplicit\\UpcastingDowncastingImplicit\\Models\\Dog.cs",
+              "RelativeToolTip": "UpcastingDowncastingImplicit\\Models\\Dog.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T10:24:14.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Animal.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\UpcastingDowncastingImplicit\\UpcastingDowncastingImplicit\\Models\\Animal.cs",
+              "RelativeDocumentMoniker": "UpcastingDowncastingImplicit\\Models\\Animal.cs",
+              "ToolTip": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\UpcastingDowncastingImplicit\\UpcastingDowncastingImplicit\\Models\\Animal.cs",
+              "RelativeToolTip": "UpcastingDowncastingImplicit\\Models\\Animal.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T10:23:19.944Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\UpcastingDowncastingImplicit\\UpcastingDowncastingImplicit\\Program.cs",
+              "RelativeDocumentMoniker": "UpcastingDowncastingImplicit\\Program.cs",
+              "ToolTip": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\UpcastingDowncastingImplicit\\UpcastingDowncastingImplicit\\Program.cs",
+              "RelativeToolTip": "UpcastingDowncastingImplicit\\Program.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAASwCIAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-23T10:21:41.038Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+C:\Users\sabir\OneDrive\Рабочий стол\UpcastingDowncastingImplicit\UpcastingDowncastingImplicit\bin\Debug\net6.0\UpcastingDowncastingImplicit.exe
+C:\Users\sabir\OneDrive\Рабочий стол\UpcastingDowncastingImplicit\UpcastingDowncastingImplicit\bin\Debug\net6.0\UpcastingDowncastingImplicit.deps.json
+C:\Users\sabir\OneDrive\Рабочий стол\UpcastingDowncastingImplicit\UpcastingDowncastingImplicit\bin\Debug\net6.0\UpcastingDowncastingImplicit.runtimeconfig.json
+C:\Users\sabir\OneDrive\Рабочий стол\UpcastingDowncastingImplicit\UpcastingDowncastingImplicit\bin\Debug\net6.0\UpcastingDowncastingImplicit.dll
+C:\Users\sabir\OneDrive\Рабочий стол\UpcastingDowncastingImplicit\UpcastingDowncastingImplicit\bin\Debug\net6.0\UpcastingDowncastingImplicit.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\UpcastingDowncastingImplicit\UpcastingDowncastingImplicit\obj\Debug\net6.0\UpcastingDowncastingImplicit.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabir\OneDrive\Рабочий стол\UpcastingDowncastingImplicit\UpcastingDowncastingImplicit\obj\Debug\net6.0\UpcastingDowncastingImplicit.AssemblyInfoInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\UpcastingDowncastingImplicit\UpcastingDowncastingImplicit\obj\Debug\net6.0\UpcastingDowncastingImplicit.AssemblyInfo.cs
+C:\Users\sabir\OneDrive\Рабочий стол\UpcastingDowncastingImplicit\UpcastingDowncastingImplicit\obj\Debug\net6.0\UpcastingDowncastingImplicit.csproj.CoreCompileInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\UpcastingDowncastingImplicit\UpcastingDowncastingImplicit\obj\Debug\net6.0\UpcastingDowncastingImplicit.dll
+C:\Users\sabir\OneDrive\Рабочий стол\UpcastingDowncastingImplicit\UpcastingDowncastingImplicit\obj\Debug\net6.0\refint\UpcastingDowncastingImplicit.dll
+C:\Users\sabir\OneDrive\Рабочий стол\UpcastingDowncastingImplicit\UpcastingDowncastingImplicit\obj\Debug\net6.0\UpcastingDowncastingImplicit.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\UpcastingDowncastingImplicit\UpcastingDowncastingImplicit\obj\Debug\net6.0\UpcastingDowncastingImplicit.genruntimeconfig.cache
+C:\Users\sabir\OneDrive\Рабочий стол\UpcastingDowncastingImplicit\UpcastingDowncastingImplicit\obj\Debug\net6.0\ref\UpcastingDowncastingImplicit.dll
