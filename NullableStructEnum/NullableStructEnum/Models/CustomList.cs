@@ -6,9 +6,9 @@ using System.Threading.Tasks;
 
 namespace NullableStructEnum.Models
 {
-    internal class ListInt
+    internal class CustomList<T>
     {
-        private int[] _arr;
+        private T[] _arr;
 
         public int Length
         {
@@ -18,7 +18,7 @@ namespace NullableStructEnum.Models
             }
             
         }
-        public int this[int index]
+        public T this[int index]
         {
             get
             {
@@ -37,22 +37,22 @@ namespace NullableStructEnum.Models
               
             }
         }
-        public ListInt()
+        public CustomList()
         {
-            _arr = new int[0];
+            _arr = new T[0];
         }
-        public ListInt(int length) 
+        public CustomList(int length) 
         { 
-            _arr = new int[length];
+            _arr = new T[length];
         
         }
-        public ListInt(params int[] nums)
+        public CustomList(params T[] nums)
         {
             _arr = nums;
         }
 
 
-        public void Add(int value)
+        public void Add(T value)
         {
             Array.Resize(ref _arr, _arr.Length + 1);
             _arr[_arr.Length-1] = value;

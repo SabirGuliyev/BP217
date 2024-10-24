@@ -12,3 +12,18 @@ C:\Users\sabir\OneDrive\Рабочий стол\NullableStructEnum\NullableStruc
 C:\Users\sabir\OneDrive\Рабочий стол\NullableStructEnum\NullableStructEnum\obj\Debug\net6.0\NullableStructEnum.pdb
 C:\Users\sabir\OneDrive\Рабочий стол\NullableStructEnum\NullableStructEnum\obj\Debug\net6.0\NullableStructEnum.genruntimeconfig.cache
 C:\Users\sabir\OneDrive\Рабочий стол\NullableStructEnum\NullableStructEnum\obj\Debug\net6.0\ref\NullableStructEnum.dll
+C:\Users\sabir\Desktop\BP217\NullableStructEnum\NullableStructEnum\bin\Debug\net6.0\NullableStructEnum.exe
+C:\Users\sabir\Desktop\BP217\NullableStructEnum\NullableStructEnum\bin\Debug\net6.0\NullableStructEnum.deps.json
+C:\Users\sabir\Desktop\BP217\NullableStructEnum\NullableStructEnum\bin\Debug\net6.0\NullableStructEnum.runtimeconfig.json
+C:\Users\sabir\Desktop\BP217\NullableStructEnum\NullableStructEnum\bin\Debug\net6.0\NullableStructEnum.dll
+C:\Users\sabir\Desktop\BP217\NullableStructEnum\NullableStructEnum\bin\Debug\net6.0\NullableStructEnum.pdb
+C:\Users\sabir\Desktop\BP217\NullableStructEnum\NullableStructEnum\obj\Debug\net6.0\NullableStructEnum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabir\Desktop\BP217\NullableStructEnum\NullableStructEnum\obj\Debug\net6.0\NullableStructEnum.AssemblyInfoInputs.cache
+C:\Users\sabir\Desktop\BP217\NullableStructEnum\NullableStructEnum\obj\Debug\net6.0\NullableStructEnum.AssemblyInfo.cs
+C:\Users\sabir\Desktop\BP217\NullableStructEnum\NullableStructEnum\obj\Debug\net6.0\NullableStructEnum.csproj.CoreCompileInputs.cache
+C:\Users\sabir\Desktop\BP217\NullableStructEnum\NullableStructEnum\obj\Debug\net6.0\NullableStructEnum.sourcelink.json
+C:\Users\sabir\Desktop\BP217\NullableStructEnum\NullableStructEnum\obj\Debug\net6.0\NullableStructEnum.dll
+C:\Users\sabir\Desktop\BP217\NullableStructEnum\NullableStructEnum\obj\Debug\net6.0\refint\NullableStructEnum.dll
+C:\Users\sabir\Desktop\BP217\NullableStructEnum\NullableStructEnum\obj\Debug\net6.0\NullableStructEnum.pdb
+C:\Users\sabir\Desktop\BP217\NullableStructEnum\NullableStructEnum\obj\Debug\net6.0\NullableStructEnum.genruntimeconfig.cache
+C:\Users\sabir\Desktop\BP217\NullableStructEnum\NullableStructEnum\obj\Debug\net6.0\ref\NullableStructEnum.dll

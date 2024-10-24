@@ -121,13 +121,13 @@ namespace NullableStructEnum
             //{
             //    Console.WriteLine(nums[i]);
             //}
-            string[] 
+       
             List<int> ints = new List<int> {1,2,3 };
 
             ints.Add(1);
             ints.Remove(1);
 
-            ListInt arr=new ListInt(2,3,4,5);
+            CustomList<int> arr=new CustomList<int>(2,3,4,5);
 
             arr.Add(55);
             arr.Add(56);
@@ -144,7 +144,9 @@ namespace NullableStructEnum
 
 
 
+            CustomList<string> words=new CustomList<string> ("salam","necesiz");
 
+            words.Add("sabah");
 
 
 

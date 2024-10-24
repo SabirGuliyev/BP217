@@ -1,49 +1,49 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NullableStructEnum\\",
+  "WorkspaceRootPath": "C:\\Users\\sabir\\Desktop\\BP217\\NullableStructEnum\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{45D64D9F-5068-48AC-9879-174560C7F22D}|NullableStructEnum\\NullableStructEnum.csproj|c:\\users\\sabir\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\nullablestructenum\\nullablestructenum\\models\\listint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45D64D9F-5068-48AC-9879-174560C7F22D}|NullableStructEnum\\NullableStructEnum.csproj|solutionrelative:nullablestructenum\\models\\listint.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45D64D9F-5068-48AC-9879-174560C7F22D}|NullableStructEnum\\NullableStructEnum.csproj|c:\\users\\sabir\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\nullablestructenum\\nullablestructenum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{45D64D9F-5068-48AC-9879-174560C7F22D}|NullableStructEnum\\NullableStructEnum.csproj|c:\\users\\sabir\\desktop\\bp217\\nullablestructenum\\nullablestructenum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{45D64D9F-5068-48AC-9879-174560C7F22D}|NullableStructEnum\\NullableStructEnum.csproj|solutionrelative:nullablestructenum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45D64D9F-5068-48AC-9879-174560C7F22D}|NullableStructEnum\\NullableStructEnum.csproj|c:\\users\\sabir\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\nullablestructenum\\nullablestructenum\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{45D64D9F-5068-48AC-9879-174560C7F22D}|NullableStructEnum\\NullableStructEnum.csproj|c:\\users\\sabir\\desktop\\bp217\\nullablestructenum\\nullablestructenum\\models\\customlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45D64D9F-5068-48AC-9879-174560C7F22D}|NullableStructEnum\\NullableStructEnum.csproj|solutionrelative:nullablestructenum\\models\\customlist.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45D64D9F-5068-48AC-9879-174560C7F22D}|NullableStructEnum\\NullableStructEnum.csproj|c:\\users\\sabir\\desktop\\bp217\\nullablestructenum\\nullablestructenum\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{45D64D9F-5068-48AC-9879-174560C7F22D}|NullableStructEnum\\NullableStructEnum.csproj|solutionrelative:nullablestructenum\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45D64D9F-5068-48AC-9879-174560C7F22D}|NullableStructEnum\\NullableStructEnum.csproj|c:\\users\\sabir\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\nullablestructenum\\nullablestructenum\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45D64D9F-5068-48AC-9879-174560C7F22D}|NullableStructEnum\\NullableStructEnum.csproj|solutionrelative:nullablestructenum\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45D64D9F-5068-48AC-9879-174560C7F22D}|NullableStructEnum\\NullableStructEnum.csproj|c:\\users\\sabir\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\nullablestructenum\\nullablestructenum\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45D64D9F-5068-48AC-9879-174560C7F22D}|NullableStructEnum\\NullableStructEnum.csproj|solutionrelative:nullablestructenum\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45D64D9F-5068-48AC-9879-174560C7F22D}|NullableStructEnum\\NullableStructEnum.csproj|c:\\users\\sabir\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\nullablestructenum\\nullablestructenum\\enums\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{45D64D9F-5068-48AC-9879-174560C7F22D}|NullableStructEnum\\NullableStructEnum.csproj|c:\\users\\sabir\\desktop\\bp217\\nullablestructenum\\nullablestructenum\\enums\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{45D64D9F-5068-48AC-9879-174560C7F22D}|NullableStructEnum\\NullableStructEnum.csproj|solutionrelative:nullablestructenum\\enums\\gender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45D64D9F-5068-48AC-9879-174560C7F22D}|NullableStructEnum\\NullableStructEnum.csproj|c:\\users\\sabir\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\nullablestructenum\\nullablestructenum\\nullablestructenum.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "AbsoluteMoniker": "D:0:0:{45D64D9F-5068-48AC-9879-174560C7F22D}|NullableStructEnum\\NullableStructEnum.csproj|c:\\users\\sabir\\desktop\\bp217\\nullablestructenum\\nullablestructenum\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45D64D9F-5068-48AC-9879-174560C7F22D}|NullableStructEnum\\NullableStructEnum.csproj|solutionrelative:nullablestructenum\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45D64D9F-5068-48AC-9879-174560C7F22D}|NullableStructEnum\\NullableStructEnum.csproj|c:\\users\\sabir\\desktop\\bp217\\nullablestructenum\\nullablestructenum\\nullablestructenum.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{45D64D9F-5068-48AC-9879-174560C7F22D}|NullableStructEnum\\NullableStructEnum.csproj|solutionrelative:nullablestructenum\\nullablestructenum.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45D64D9F-5068-48AC-9879-174560C7F22D}|NullableStructEnum\\NullableStructEnum.csproj|c:\\users\\sabir\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\nullablestructenum\\nullablestructenum\\enums\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{45D64D9F-5068-48AC-9879-174560C7F22D}|NullableStructEnum\\NullableStructEnum.csproj|solutionrelative:nullablestructenum\\enums\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{45D64D9F-5068-48AC-9879-174560C7F22D}|NullableStructEnum\\NullableStructEnum.csproj|c:\\users\\sabir\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\nullablestructenum\\nullablestructenum\\enums\\weekday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{45D64D9F-5068-48AC-9879-174560C7F22D}|NullableStructEnum\\NullableStructEnum.csproj|c:\\users\\sabir\\desktop\\bp217\\nullablestructenum\\nullablestructenum\\enums\\weekday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{45D64D9F-5068-48AC-9879-174560C7F22D}|NullableStructEnum\\NullableStructEnum.csproj|solutionrelative:nullablestructenum\\enums\\weekday.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45D64D9F-5068-48AC-9879-174560C7F22D}|NullableStructEnum\\NullableStructEnum.csproj|c:\\users\\sabir\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\nullablestructenum\\nullablestructenum\\models\\pointstruct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{45D64D9F-5068-48AC-9879-174560C7F22D}|NullableStructEnum\\NullableStructEnum.csproj|c:\\users\\sabir\\desktop\\bp217\\nullablestructenum\\nullablestructenum\\enums\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45D64D9F-5068-48AC-9879-174560C7F22D}|NullableStructEnum\\NullableStructEnum.csproj|solutionrelative:nullablestructenum\\enums\\productcategory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45D64D9F-5068-48AC-9879-174560C7F22D}|NullableStructEnum\\NullableStructEnum.csproj|c:\\users\\sabir\\desktop\\bp217\\nullablestructenum\\nullablestructenum\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{45D64D9F-5068-48AC-9879-174560C7F22D}|NullableStructEnum\\NullableStructEnum.csproj|solutionrelative:nullablestructenum\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{45D64D9F-5068-48AC-9879-174560C7F22D}|NullableStructEnum\\NullableStructEnum.csproj|c:\\users\\sabir\\desktop\\bp217\\nullablestructenum\\nullablestructenum\\models\\pointstruct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{45D64D9F-5068-48AC-9879-174560C7F22D}|NullableStructEnum\\NullableStructEnum.csproj|solutionrelative:nullablestructenum\\models\\pointstruct.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{45D64D9F-5068-48AC-9879-174560C7F22D}|NullableStructEnum\\NullableStructEnum.csproj|c:\\users\\sabir\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\nullablestructenum\\nullablestructenum\\models\\pointclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{45D64D9F-5068-48AC-9879-174560C7F22D}|NullableStructEnum\\NullableStructEnum.csproj|c:\\users\\sabir\\desktop\\bp217\\nullablestructenum\\nullablestructenum\\models\\pointclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{45D64D9F-5068-48AC-9879-174560C7F22D}|NullableStructEnum\\NullableStructEnum.csproj|solutionrelative:nullablestructenum\\models\\pointclass.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -54,45 +54,59 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 9,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Gender.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\BP217\\NullableStructEnum\\NullableStructEnum\\Enums\\Gender.cs",
+              "RelativeDocumentMoniker": "NullableStructEnum\\Enums\\Gender.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\BP217\\NullableStructEnum\\NullableStructEnum\\Enums\\Gender.cs",
+              "RelativeToolTip": "NullableStructEnum\\Enums\\Gender.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-21T12:22:36.544Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ListInt.cs",
-              "DocumentMoniker": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NullableStructEnum\\NullableStructEnum\\Models\\ListInt.cs",
-              "RelativeDocumentMoniker": "NullableStructEnum\\Models\\ListInt.cs",
-              "ToolTip": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NullableStructEnum\\NullableStructEnum\\Models\\ListInt.cs",
-              "RelativeToolTip": "NullableStructEnum\\Models\\ListInt.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAuwA8AAAANAAAA",
+              "DocumentIndex": 1,
+              "Title": "CustomList.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\BP217\\NullableStructEnum\\NullableStructEnum\\Models\\CustomList.cs",
+              "RelativeDocumentMoniker": "NullableStructEnum\\Models\\CustomList.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\BP217\\NullableStructEnum\\NullableStructEnum\\Models\\CustomList.cs",
+              "RelativeToolTip": "NullableStructEnum\\Models\\CustomList.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwB8AAAANAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-21T12:51:12.871Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "Group.cs",
-              "DocumentMoniker": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NullableStructEnum\\NullableStructEnum\\Models\\Group.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\BP217\\NullableStructEnum\\NullableStructEnum\\Models\\Group.cs",
               "RelativeDocumentMoniker": "NullableStructEnum\\Models\\Group.cs",
-              "ToolTip": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NullableStructEnum\\NullableStructEnum\\Models\\Group.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\BP217\\NullableStructEnum\\NullableStructEnum\\Models\\Group.cs",
               "RelativeToolTip": "NullableStructEnum\\Models\\Group.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAAYwA8AAAAPAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAPAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-21T12:38:37.991Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "Student.cs",
-              "DocumentMoniker": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NullableStructEnum\\NullableStructEnum\\Models\\Student.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\BP217\\NullableStructEnum\\NullableStructEnum\\Models\\Student.cs",
               "RelativeDocumentMoniker": "NullableStructEnum\\Models\\Student.cs",
-              "ToolTip": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NullableStructEnum\\NullableStructEnum\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\BP217\\NullableStructEnum\\NullableStructEnum\\Models\\Student.cs",
               "RelativeToolTip": "NullableStructEnum\\Models\\Student.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAnAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -101,24 +115,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Gender.cs",
-              "DocumentMoniker": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NullableStructEnum\\NullableStructEnum\\Enums\\Gender.cs",
-              "RelativeDocumentMoniker": "NullableStructEnum\\Enums\\Gender.cs",
-              "ToolTip": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NullableStructEnum\\NullableStructEnum\\Enums\\Gender.cs",
-              "RelativeToolTip": "NullableStructEnum\\Enums\\Gender.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T12:22:36.544Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 2,
               "Title": "Person.cs",
-              "DocumentMoniker": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NullableStructEnum\\NullableStructEnum\\Models\\Person.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\BP217\\NullableStructEnum\\NullableStructEnum\\Models\\Person.cs",
               "RelativeDocumentMoniker": "NullableStructEnum\\Models\\Person.cs",
-              "ToolTip": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NullableStructEnum\\NullableStructEnum\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\BP217\\NullableStructEnum\\NullableStructEnum\\Models\\Person.cs",
               "RelativeToolTip": "NullableStructEnum\\Models\\Person.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAABAAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -129,9 +130,9 @@
               "$type": "Document",
               "DocumentIndex": 7,
               "Title": "ProductCategory.cs",
-              "DocumentMoniker": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NullableStructEnum\\NullableStructEnum\\Enums\\ProductCategory.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\BP217\\NullableStructEnum\\NullableStructEnum\\Enums\\ProductCategory.cs",
               "RelativeDocumentMoniker": "NullableStructEnum\\Enums\\ProductCategory.cs",
-              "ToolTip": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NullableStructEnum\\NullableStructEnum\\Enums\\ProductCategory.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\BP217\\NullableStructEnum\\NullableStructEnum\\Enums\\ProductCategory.cs",
               "RelativeToolTip": "NullableStructEnum\\Enums\\ProductCategory.cs",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -140,11 +141,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 6,
               "Title": "WeekDay.cs",
-              "DocumentMoniker": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NullableStructEnum\\NullableStructEnum\\Enums\\WeekDay.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\BP217\\NullableStructEnum\\NullableStructEnum\\Enums\\WeekDay.cs",
               "RelativeDocumentMoniker": "NullableStructEnum\\Enums\\WeekDay.cs",
-              "ToolTip": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NullableStructEnum\\NullableStructEnum\\Enums\\WeekDay.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\BP217\\NullableStructEnum\\NullableStructEnum\\Enums\\WeekDay.cs",
               "RelativeToolTip": "NullableStructEnum\\Enums\\WeekDay.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAAAYwBAAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -153,11 +154,11 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "NullableStructEnum",
-              "DocumentMoniker": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NullableStructEnum\\NullableStructEnum\\NullableStructEnum.csproj",
+              "DocumentIndex": 5,
+              "Title": "NullableStructEnum.csproj",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\BP217\\NullableStructEnum\\NullableStructEnum\\NullableStructEnum.csproj",
               "RelativeDocumentMoniker": "NullableStructEnum\\NullableStructEnum.csproj",
-              "ToolTip": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NullableStructEnum\\NullableStructEnum\\NullableStructEnum.csproj",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\BP217\\NullableStructEnum\\NullableStructEnum\\NullableStructEnum.csproj",
               "RelativeToolTip": "NullableStructEnum\\NullableStructEnum.csproj",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAgAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -166,13 +167,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NullableStructEnum\\NullableStructEnum\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\BP217\\NullableStructEnum\\NullableStructEnum\\Program.cs",
               "RelativeDocumentMoniker": "NullableStructEnum\\Program.cs",
-              "ToolTip": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NullableStructEnum\\NullableStructEnum\\Program.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\BP217\\NullableStructEnum\\NullableStructEnum\\Program.cs",
               "RelativeToolTip": "NullableStructEnum\\Program.cs",
-              "ViewState": "AQIAAHMAAAAAAAAAAAAAAHsAAAAVAAAA",
+              "ViewState": "AQIAAIcAAAAAAAAAAAASwJQAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-21T10:39:41.541Z",
               "EditorCaption": ""
@@ -181,27 +182,25 @@
               "$type": "Document",
               "DocumentIndex": 9,
               "Title": "PointStruct.cs",
-              "DocumentMoniker": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NullableStructEnum\\NullableStructEnum\\Models\\PointStruct.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\BP217\\NullableStructEnum\\NullableStructEnum\\Models\\PointStruct.cs",
               "RelativeDocumentMoniker": "NullableStructEnum\\Models\\PointStruct.cs",
-              "ToolTip": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NullableStructEnum\\NullableStructEnum\\Models\\PointStruct.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\BP217\\NullableStructEnum\\NullableStructEnum\\Models\\PointStruct.cs",
               "RelativeToolTip": "NullableStructEnum\\Models\\PointStruct.cs",
               "ViewState": "AQIAAAMAAAAAAAAAAAAuwAoAAAAIAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T11:20:42.75Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-21T11:20:42.75Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 10,
               "Title": "PointClass.cs",
-              "DocumentMoniker": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NullableStructEnum\\NullableStructEnum\\Models\\PointClass.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\Desktop\\BP217\\NullableStructEnum\\NullableStructEnum\\Models\\PointClass.cs",
               "RelativeDocumentMoniker": "NullableStructEnum\\Models\\PointClass.cs",
-              "ToolTip": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\NullableStructEnum\\NullableStructEnum\\Models\\PointClass.cs",
+              "ToolTip": "C:\\Users\\sabir\\Desktop\\BP217\\NullableStructEnum\\NullableStructEnum\\Models\\PointClass.cs",
               "RelativeToolTip": "NullableStructEnum\\Models\\PointClass.cs",
               "ViewState": "AQIAAAYAAAAAAAAAAAAAwBAAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-21T11:19:07.511Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-21T11:19:07.511Z"
             }
           ]
         }
