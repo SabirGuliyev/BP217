@@ -1,0 +1,92 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\CourseManagment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{93A1ED13-54F5-46EF-BB1E-F920151E8BF4}|CourseManagment\\CourseManagment.csproj|c:\\users\\sabir\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\coursemanagment\\coursemanagment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93A1ED13-54F5-46EF-BB1E-F920151E8BF4}|CourseManagment\\CourseManagment.csproj|solutionrelative:coursemanagment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93A1ED13-54F5-46EF-BB1E-F920151E8BF4}|CourseManagment\\CourseManagment.csproj|c:\\users\\sabir\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\coursemanagment\\coursemanagment\\services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93A1ED13-54F5-46EF-BB1E-F920151E8BF4}|CourseManagment\\CourseManagment.csproj|solutionrelative:coursemanagment\\services\\courseservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93A1ED13-54F5-46EF-BB1E-F920151E8BF4}|CourseManagment\\CourseManagment.csproj|c:\\users\\sabir\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\coursemanagment\\coursemanagment\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93A1ED13-54F5-46EF-BB1E-F920151E8BF4}|CourseManagment\\CourseManagment.csproj|solutionrelative:coursemanagment\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{93A1ED13-54F5-46EF-BB1E-F920151E8BF4}|CourseManagment\\CourseManagment.csproj|c:\\users\\sabir\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\coursemanagment\\coursemanagment\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{93A1ED13-54F5-46EF-BB1E-F920151E8BF4}|CourseManagment\\CourseManagment.csproj|solutionrelative:coursemanagment\\models\\group.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\CourseManagment\\CourseManagment\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "CourseManagment\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\CourseManagment\\CourseManagment\\Models\\Student.cs",
+              "RelativeToolTip": "CourseManagment\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T12:19:34.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Group.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\CourseManagment\\CourseManagment\\Models\\Group.cs",
+              "RelativeDocumentMoniker": "CourseManagment\\Models\\Group.cs",
+              "ToolTip": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\CourseManagment\\CourseManagment\\Models\\Group.cs",
+              "RelativeToolTip": "CourseManagment\\Models\\Group.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T12:18:03.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CourseService.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\CourseManagment\\CourseManagment\\Services\\CourseService.cs",
+              "RelativeDocumentMoniker": "CourseManagment\\Services\\CourseService.cs",
+              "ToolTip": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\CourseManagment\\CourseManagment\\Services\\CourseService.cs",
+              "RelativeToolTip": "CourseManagment\\Services\\CourseService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T12:13:59.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\CourseManagment\\CourseManagment\\Program.cs",
+              "RelativeDocumentMoniker": "CourseManagment\\Program.cs",
+              "ToolTip": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\CourseManagment\\CourseManagment\\Program.cs",
+              "RelativeToolTip": "CourseManagment\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwBcAAAA0AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T11:58:29.586Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
