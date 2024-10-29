@@ -1,0 +1,14 @@
+C:\Users\sabir\OneDrive\Рабочий стол\DelegateExamples\DelegateExamples\bin\Debug\net6.0\DelegateExamples.exe
+C:\Users\sabir\OneDrive\Рабочий стол\DelegateExamples\DelegateExamples\bin\Debug\net6.0\DelegateExamples.deps.json
+C:\Users\sabir\OneDrive\Рабочий стол\DelegateExamples\DelegateExamples\bin\Debug\net6.0\DelegateExamples.runtimeconfig.json
+C:\Users\sabir\OneDrive\Рабочий стол\DelegateExamples\DelegateExamples\bin\Debug\net6.0\DelegateExamples.dll
+C:\Users\sabir\OneDrive\Рабочий стол\DelegateExamples\DelegateExamples\bin\Debug\net6.0\DelegateExamples.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\DelegateExamples\DelegateExamples\obj\Debug\net6.0\DelegateExamples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabir\OneDrive\Рабочий стол\DelegateExamples\DelegateExamples\obj\Debug\net6.0\DelegateExamples.AssemblyInfoInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\DelegateExamples\DelegateExamples\obj\Debug\net6.0\DelegateExamples.AssemblyInfo.cs
+C:\Users\sabir\OneDrive\Рабочий стол\DelegateExamples\DelegateExamples\obj\Debug\net6.0\DelegateExamples.csproj.CoreCompileInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\DelegateExamples\DelegateExamples\obj\Debug\net6.0\DelegateExamples.dll
+C:\Users\sabir\OneDrive\Рабочий стол\DelegateExamples\DelegateExamples\obj\Debug\net6.0\refint\DelegateExamples.dll
+C:\Users\sabir\OneDrive\Рабочий стол\DelegateExamples\DelegateExamples\obj\Debug\net6.0\DelegateExamples.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\DelegateExamples\DelegateExamples\obj\Debug\net6.0\DelegateExamples.genruntimeconfig.cache
+C:\Users\sabir\OneDrive\Рабочий стол\DelegateExamples\DelegateExamples\obj\Debug\net6.0\ref\DelegateExamples.dll
