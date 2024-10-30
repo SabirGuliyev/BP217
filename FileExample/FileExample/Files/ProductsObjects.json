@@ -1,0 +1,38 @@
+[
+  {
+    "Id": 1,
+    "Name": "Samsung s22",
+    "Price": 2000.0,
+    "Category": { "Name": "Mobile" }
+  },
+  {
+    "Id": 2,
+    "Name": "Xiaomi POCO",
+    "Price": 100.0,
+    "Category": { "Name": "Mobile" }
+  },
+  {
+    "Id": 3,
+    "Name": "Iphone 16",
+    "Price": 2500.0,
+    "Category": { "Name": "Mobile" }
+  },
+  {
+    "Id": 4,
+    "Name": "Toshiba",
+    "Price": 1000.0,
+    "Category": { "Name": "TV" }
+  },
+  {
+    "Id": 5,
+    "Name": "LG QLE",
+    "Price": 2500.0,
+    "Category": { "Name": "TV" }
+  },
+  {
+    "Id": 20,
+    "Name": "MSI",
+    "Price": 2000.0,
+    "Category": { "Name": "Laptop" }
+  }
+]
