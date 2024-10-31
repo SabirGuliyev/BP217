@@ -1,0 +1,14 @@
+C:\Users\sabir\OneDrive\Рабочий стол\ThreadTaskExample\ThreadTaskExample\bin\Debug\net6.0\ThreadTaskExample.exe
+C:\Users\sabir\OneDrive\Рабочий стол\ThreadTaskExample\ThreadTaskExample\bin\Debug\net6.0\ThreadTaskExample.deps.json
+C:\Users\sabir\OneDrive\Рабочий стол\ThreadTaskExample\ThreadTaskExample\bin\Debug\net6.0\ThreadTaskExample.runtimeconfig.json
+C:\Users\sabir\OneDrive\Рабочий стол\ThreadTaskExample\ThreadTaskExample\bin\Debug\net6.0\ThreadTaskExample.dll
+C:\Users\sabir\OneDrive\Рабочий стол\ThreadTaskExample\ThreadTaskExample\bin\Debug\net6.0\ThreadTaskExample.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\ThreadTaskExample\ThreadTaskExample\obj\Debug\net6.0\ThreadTaskExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sabir\OneDrive\Рабочий стол\ThreadTaskExample\ThreadTaskExample\obj\Debug\net6.0\ThreadTaskExample.AssemblyInfoInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\ThreadTaskExample\ThreadTaskExample\obj\Debug\net6.0\ThreadTaskExample.AssemblyInfo.cs
+C:\Users\sabir\OneDrive\Рабочий стол\ThreadTaskExample\ThreadTaskExample\obj\Debug\net6.0\ThreadTaskExample.csproj.CoreCompileInputs.cache
+C:\Users\sabir\OneDrive\Рабочий стол\ThreadTaskExample\ThreadTaskExample\obj\Debug\net6.0\ThreadTaskExample.dll
+C:\Users\sabir\OneDrive\Рабочий стол\ThreadTaskExample\ThreadTaskExample\obj\Debug\net6.0\refint\ThreadTaskExample.dll
+C:\Users\sabir\OneDrive\Рабочий стол\ThreadTaskExample\ThreadTaskExample\obj\Debug\net6.0\ThreadTaskExample.pdb
+C:\Users\sabir\OneDrive\Рабочий стол\ThreadTaskExample\ThreadTaskExample\obj\Debug\net6.0\ThreadTaskExample.genruntimeconfig.cache
+C:\Users\sabir\OneDrive\Рабочий стол\ThreadTaskExample\ThreadTaskExample\obj\Debug\net6.0\ref\ThreadTaskExample.dll
