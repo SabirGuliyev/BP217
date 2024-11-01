@@ -1,0 +1,313 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\SOLIDExamples\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6B64956C-3030-4D6F-8ED1-D7960D610ED6}|SOLIDExamples\\SOLIDExamples.csproj|c:\\users\\sabir\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\solidexamples\\solidexamples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B64956C-3030-4D6F-8ED1-D7960D610ED6}|SOLIDExamples\\SOLIDExamples.csproj|solutionrelative:solidexamples\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B64956C-3030-4D6F-8ED1-D7960D610ED6}|SOLIDExamples\\SOLIDExamples.csproj|c:\\users\\sabir\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\solidexamples\\solidexamples\\dip\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B64956C-3030-4D6F-8ED1-D7960D610ED6}|SOLIDExamples\\SOLIDExamples.csproj|solutionrelative:solidexamples\\dip\\pizza.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B64956C-3030-4D6F-8ED1-D7960D610ED6}|SOLIDExamples\\SOLIDExamples.csproj|c:\\users\\sabir\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\solidexamples\\solidexamples\\dip\\scissor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B64956C-3030-4D6F-8ED1-D7960D610ED6}|SOLIDExamples\\SOLIDExamples.csproj|solutionrelative:solidexamples\\dip\\scissor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B64956C-3030-4D6F-8ED1-D7960D610ED6}|SOLIDExamples\\SOLIDExamples.csproj|c:\\users\\sabir\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\solidexamples\\solidexamples\\dip\\icut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B64956C-3030-4D6F-8ED1-D7960D610ED6}|SOLIDExamples\\SOLIDExamples.csproj|solutionrelative:solidexamples\\dip\\icut.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B64956C-3030-4D6F-8ED1-D7960D610ED6}|SOLIDExamples\\SOLIDExamples.csproj|c:\\users\\sabir\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\solidexamples\\solidexamples\\dip\\knife.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B64956C-3030-4D6F-8ED1-D7960D610ED6}|SOLIDExamples\\SOLIDExamples.csproj|solutionrelative:solidexamples\\dip\\knife.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B64956C-3030-4D6F-8ED1-D7960D610ED6}|SOLIDExamples\\SOLIDExamples.csproj|c:\\users\\sabir\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\solidexamples\\solidexamples\\liskov\\penguin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B64956C-3030-4D6F-8ED1-D7960D610ED6}|SOLIDExamples\\SOLIDExamples.csproj|solutionrelative:solidexamples\\liskov\\penguin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B64956C-3030-4D6F-8ED1-D7960D610ED6}|SOLIDExamples\\SOLIDExamples.csproj|c:\\users\\sabir\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\solidexamples\\solidexamples\\liskov\\eagle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B64956C-3030-4D6F-8ED1-D7960D610ED6}|SOLIDExamples\\SOLIDExamples.csproj|solutionrelative:solidexamples\\liskov\\eagle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B64956C-3030-4D6F-8ED1-D7960D610ED6}|SOLIDExamples\\SOLIDExamples.csproj|c:\\users\\sabir\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\solidexamples\\solidexamples\\liskov\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B64956C-3030-4D6F-8ED1-D7960D610ED6}|SOLIDExamples\\SOLIDExamples.csproj|solutionrelative:solidexamples\\liskov\\bird.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B64956C-3030-4D6F-8ED1-D7960D610ED6}|SOLIDExamples\\SOLIDExamples.csproj|c:\\users\\sabir\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\solidexamples\\solidexamples\\liskov\\duck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B64956C-3030-4D6F-8ED1-D7960D610ED6}|SOLIDExamples\\SOLIDExamples.csproj|solutionrelative:solidexamples\\liskov\\duck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B64956C-3030-4D6F-8ED1-D7960D610ED6}|SOLIDExamples\\SOLIDExamples.csproj|c:\\users\\sabir\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\solidexamples\\solidexamples\\liskov\\iflyswim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B64956C-3030-4D6F-8ED1-D7960D610ED6}|SOLIDExamples\\SOLIDExamples.csproj|solutionrelative:solidexamples\\liskov\\iflyswim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B64956C-3030-4D6F-8ED1-D7960D610ED6}|SOLIDExamples\\SOLIDExamples.csproj|c:\\users\\sabir\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\solidexamples\\solidexamples\\liskov\\ifly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B64956C-3030-4D6F-8ED1-D7960D610ED6}|SOLIDExamples\\SOLIDExamples.csproj|solutionrelative:solidexamples\\liskov\\ifly.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B64956C-3030-4D6F-8ED1-D7960D610ED6}|SOLIDExamples\\SOLIDExamples.csproj|c:\\users\\sabir\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\solidexamples\\solidexamples\\liskov\\flyshow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B64956C-3030-4D6F-8ED1-D7960D610ED6}|SOLIDExamples\\SOLIDExamples.csproj|solutionrelative:solidexamples\\liskov\\flyshow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B64956C-3030-4D6F-8ED1-D7960D610ED6}|SOLIDExamples\\SOLIDExamples.csproj|c:\\users\\sabir\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\solidexamples\\solidexamples\\ocp\\mushedpotato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B64956C-3030-4D6F-8ED1-D7960D610ED6}|SOLIDExamples\\SOLIDExamples.csproj|solutionrelative:solidexamples\\ocp\\mushedpotato.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B64956C-3030-4D6F-8ED1-D7960D610ED6}|SOLIDExamples\\SOLIDExamples.csproj|c:\\users\\sabir\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\solidexamples\\solidexamples\\ocp\\imeal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B64956C-3030-4D6F-8ED1-D7960D610ED6}|SOLIDExamples\\SOLIDExamples.csproj|solutionrelative:solidexamples\\ocp\\imeal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B64956C-3030-4D6F-8ED1-D7960D610ED6}|SOLIDExamples\\SOLIDExamples.csproj|c:\\users\\sabir\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\solidexamples\\solidexamples\\ocp\\chef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B64956C-3030-4D6F-8ED1-D7960D610ED6}|SOLIDExamples\\SOLIDExamples.csproj|solutionrelative:solidexamples\\ocp\\chef.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B64956C-3030-4D6F-8ED1-D7960D610ED6}|SOLIDExamples\\SOLIDExamples.csproj|c:\\users\\sabir\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\solidexamples\\solidexamples\\ocp\\frenchfries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B64956C-3030-4D6F-8ED1-D7960D610ED6}|SOLIDExamples\\SOLIDExamples.csproj|solutionrelative:solidexamples\\ocp\\frenchfries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6B64956C-3030-4D6F-8ED1-D7960D610ED6}|SOLIDExamples\\SOLIDExamples.csproj|c:\\users\\sabir\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\solidexamples\\solidexamples\\ocp\\soup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6B64956C-3030-4D6F-8ED1-D7960D610ED6}|SOLIDExamples\\SOLIDExamples.csproj|solutionrelative:solidexamples\\ocp\\soup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 12,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Scissor.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\SOLIDExamples\\SOLIDExamples\\DIP\\Scissor.cs",
+              "RelativeDocumentMoniker": "SOLIDExamples\\DIP\\Scissor.cs",
+              "ToolTip": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\SOLIDExamples\\SOLIDExamples\\DIP\\Scissor.cs",
+              "RelativeToolTip": "SOLIDExamples\\DIP\\Scissor.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T12:40:03.955Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ICut.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\SOLIDExamples\\SOLIDExamples\\DIP\\ICut.cs",
+              "RelativeDocumentMoniker": "SOLIDExamples\\DIP\\ICut.cs",
+              "ToolTip": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\SOLIDExamples\\SOLIDExamples\\DIP\\ICut.cs",
+              "RelativeToolTip": "SOLIDExamples\\DIP\\ICut.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAsAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T12:37:52.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Knife.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\SOLIDExamples\\SOLIDExamples\\DIP\\Knife.cs",
+              "RelativeDocumentMoniker": "SOLIDExamples\\DIP\\Knife.cs",
+              "ToolTip": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\SOLIDExamples\\SOLIDExamples\\DIP\\Knife.cs",
+              "RelativeToolTip": "SOLIDExamples\\DIP\\Knife.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T12:34:44.89Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pizza.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\SOLIDExamples\\SOLIDExamples\\DIP\\Pizza.cs",
+              "RelativeDocumentMoniker": "SOLIDExamples\\DIP\\Pizza.cs",
+              "ToolTip": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\SOLIDExamples\\SOLIDExamples\\DIP\\Pizza.cs",
+              "RelativeToolTip": "SOLIDExamples\\DIP\\Pizza.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAsAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T12:34:35.628Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Duck.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\SOLIDExamples\\SOLIDExamples\\Liskov\\Duck.cs",
+              "RelativeDocumentMoniker": "SOLIDExamples\\Liskov\\Duck.cs",
+              "ToolTip": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\SOLIDExamples\\SOLIDExamples\\Liskov\\Duck.cs",
+              "RelativeToolTip": "SOLIDExamples\\Liskov\\Duck.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwAgAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T12:13:34.591Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IFlySwim.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\SOLIDExamples\\SOLIDExamples\\Liskov\\IFlySwim.cs",
+              "RelativeDocumentMoniker": "SOLIDExamples\\Liskov\\IFlySwim.cs",
+              "ToolTip": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\SOLIDExamples\\SOLIDExamples\\Liskov\\IFlySwim.cs",
+              "RelativeToolTip": "SOLIDExamples\\Liskov\\IFlySwim.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T12:12:48.01Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IFly.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\SOLIDExamples\\SOLIDExamples\\Liskov\\IFly.cs",
+              "RelativeDocumentMoniker": "SOLIDExamples\\Liskov\\IFly.cs",
+              "ToolTip": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\SOLIDExamples\\SOLIDExamples\\Liskov\\IFly.cs",
+              "RelativeToolTip": "SOLIDExamples\\Liskov\\IFly.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T11:47:39.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FlyShow.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\SOLIDExamples\\SOLIDExamples\\Liskov\\FlyShow.cs",
+              "RelativeDocumentMoniker": "SOLIDExamples\\Liskov\\FlyShow.cs",
+              "ToolTip": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\SOLIDExamples\\SOLIDExamples\\Liskov\\FlyShow.cs",
+              "RelativeToolTip": "SOLIDExamples\\Liskov\\FlyShow.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAgAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T11:41:29.25Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Penguin.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\SOLIDExamples\\SOLIDExamples\\Liskov\\Penguin.cs",
+              "RelativeDocumentMoniker": "SOLIDExamples\\Liskov\\Penguin.cs",
+              "ToolTip": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\SOLIDExamples\\SOLIDExamples\\Liskov\\Penguin.cs",
+              "RelativeToolTip": "SOLIDExamples\\Liskov\\Penguin.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAAwA0AAAAHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T11:40:32.001Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Eagle.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\SOLIDExamples\\SOLIDExamples\\Liskov\\Eagle.cs",
+              "RelativeDocumentMoniker": "SOLIDExamples\\Liskov\\Eagle.cs",
+              "ToolTip": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\SOLIDExamples\\SOLIDExamples\\Liskov\\Eagle.cs",
+              "RelativeToolTip": "SOLIDExamples\\Liskov\\Eagle.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAkwB4AAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T11:40:15.385Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Bird.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\SOLIDExamples\\SOLIDExamples\\Liskov\\Bird.cs",
+              "RelativeDocumentMoniker": "SOLIDExamples\\Liskov\\Bird.cs",
+              "ToolTip": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\SOLIDExamples\\SOLIDExamples\\Liskov\\Bird.cs",
+              "RelativeToolTip": "SOLIDExamples\\Liskov\\Bird.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA4AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T11:39:20.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\SOLIDExamples\\SOLIDExamples\\Program.cs",
+              "RelativeDocumentMoniker": "SOLIDExamples\\Program.cs",
+              "ToolTip": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\SOLIDExamples\\SOLIDExamples\\Program.cs",
+              "RelativeToolTip": "SOLIDExamples\\Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAgwAsAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T10:26:47.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "MushedPotato.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\SOLIDExamples\\SOLIDExamples\\OCP\\MushedPotato.cs",
+              "RelativeDocumentMoniker": "SOLIDExamples\\OCP\\MushedPotato.cs",
+              "ToolTip": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\SOLIDExamples\\SOLIDExamples\\OCP\\MushedPotato.cs",
+              "RelativeToolTip": "SOLIDExamples\\OCP\\MushedPotato.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T11:23:52.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "FrenchFries.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\SOLIDExamples\\SOLIDExamples\\OCP\\FrenchFries.cs",
+              "RelativeDocumentMoniker": "SOLIDExamples\\OCP\\FrenchFries.cs",
+              "ToolTip": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\SOLIDExamples\\SOLIDExamples\\OCP\\FrenchFries.cs",
+              "RelativeToolTip": "SOLIDExamples\\OCP\\FrenchFries.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T11:27:27.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Soup.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\SOLIDExamples\\SOLIDExamples\\OCP\\Soup.cs",
+              "RelativeDocumentMoniker": "SOLIDExamples\\OCP\\Soup.cs",
+              "ToolTip": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\SOLIDExamples\\SOLIDExamples\\OCP\\Soup.cs",
+              "RelativeToolTip": "SOLIDExamples\\OCP\\Soup.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T11:29:27.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IMeal.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\SOLIDExamples\\SOLIDExamples\\OCP\\IMeal.cs",
+              "RelativeDocumentMoniker": "SOLIDExamples\\OCP\\IMeal.cs",
+              "ToolTip": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\SOLIDExamples\\SOLIDExamples\\OCP\\IMeal.cs",
+              "RelativeToolTip": "SOLIDExamples\\OCP\\IMeal.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAoAAAAGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T11:23:20.626Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Chef.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\SOLIDExamples\\SOLIDExamples\\OCP\\Chef.cs",
+              "RelativeDocumentMoniker": "SOLIDExamples\\OCP\\Chef.cs",
+              "ToolTip": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\SOLIDExamples\\SOLIDExamples\\OCP\\Chef.cs",
+              "RelativeToolTip": "SOLIDExamples\\OCP\\Chef.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-01T11:19:15.455Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
