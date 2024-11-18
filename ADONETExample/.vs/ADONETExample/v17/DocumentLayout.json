@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ADONETExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79D00F7B-256D-49A4-9709-6225B1E1863D}|ADONETExample\\ADONETExample.csproj|c:\\users\\sabir\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\adonetexample\\adonetexample\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79D00F7B-256D-49A4-9709-6225B1E1863D}|ADONETExample\\ADONETExample.csproj|solutionrelative:adonetexample\\services\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79D00F7B-256D-49A4-9709-6225B1E1863D}|ADONETExample\\ADONETExample.csproj|c:\\users\\sabir\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\adonetexample\\adonetexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79D00F7B-256D-49A4-9709-6225B1E1863D}|ADONETExample\\ADONETExample.csproj|solutionrelative:adonetexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79D00F7B-256D-49A4-9709-6225B1E1863D}|ADONETExample\\ADONETExample.csproj|c:\\users\\sabir\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\adonetexample\\adonetexample\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79D00F7B-256D-49A4-9709-6225B1E1863D}|ADONETExample\\ADONETExample.csproj|solutionrelative:adonetexample\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79D00F7B-256D-49A4-9709-6225B1E1863D}|ADONETExample\\ADONETExample.csproj|c:\\users\\sabir\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\adonetexample\\adonetexample\\data\\sql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79D00F7B-256D-49A4-9709-6225B1E1863D}|ADONETExample\\ADONETExample.csproj|solutionrelative:adonetexample\\data\\sql.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentService.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ADONETExample\\ADONETExample\\Services\\StudentService.cs",
+              "RelativeDocumentMoniker": "ADONETExample\\Services\\StudentService.cs",
+              "ToolTip": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ADONETExample\\ADONETExample\\Services\\StudentService.cs*",
+              "RelativeToolTip": "ADONETExample\\Services\\StudentService.cs*",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAABKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T11:41:29.198Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ADONETExample\\ADONETExample\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "ADONETExample\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ADONETExample\\ADONETExample\\Models\\Student.cs",
+              "RelativeToolTip": "ADONETExample\\Models\\Student.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA0AAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T11:40:18.617Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Sql.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ADONETExample\\ADONETExample\\Data\\Sql.cs",
+              "RelativeDocumentMoniker": "ADONETExample\\Data\\Sql.cs",
+              "ToolTip": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ADONETExample\\ADONETExample\\Data\\Sql.cs",
+              "RelativeToolTip": "ADONETExample\\Data\\Sql.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAswBAAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T11:16:55.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ADONETExample\\ADONETExample\\Program.cs",
+              "RelativeDocumentMoniker": "ADONETExample\\Program.cs",
+              "ToolTip": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\ADONETExample\\ADONETExample\\Program.cs",
+              "RelativeToolTip": "ADONETExample\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-15T10:06:22.061Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
