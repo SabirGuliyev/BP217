@@ -1,0 +1,192 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\DataInsertExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B37BDC6B-A03E-4EEB-ACCB-6040A8679A96}|DataInsertExample\\DataInsertExample.csproj|c:\\users\\sabir\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\datainsertexample\\datainsertexample\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B37BDC6B-A03E-4EEB-ACCB-6040A8679A96}|DataInsertExample\\DataInsertExample.csproj|solutionrelative:datainsertexample\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B37BDC6B-A03E-4EEB-ACCB-6040A8679A96}|DataInsertExample\\DataInsertExample.csproj|c:\\users\\sabir\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\datainsertexample\\datainsertexample\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B37BDC6B-A03E-4EEB-ACCB-6040A8679A96}|DataInsertExample\\DataInsertExample.csproj|solutionrelative:datainsertexample\\views\\home\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B37BDC6B-A03E-4EEB-ACCB-6040A8679A96}|DataInsertExample\\DataInsertExample.csproj|c:\\users\\sabir\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\datainsertexample\\datainsertexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B37BDC6B-A03E-4EEB-ACCB-6040A8679A96}|DataInsertExample\\DataInsertExample.csproj|solutionrelative:datainsertexample\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B37BDC6B-A03E-4EEB-ACCB-6040A8679A96}|DataInsertExample\\DataInsertExample.csproj|c:\\users\\sabir\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\datainsertexample\\datainsertexample\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B37BDC6B-A03E-4EEB-ACCB-6040A8679A96}|DataInsertExample\\DataInsertExample.csproj|solutionrelative:datainsertexample\\viewmodels\\homevm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B37BDC6B-A03E-4EEB-ACCB-6040A8679A96}|DataInsertExample\\DataInsertExample.csproj|c:\\users\\sabir\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\datainsertexample\\datainsertexample\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B37BDC6B-A03E-4EEB-ACCB-6040A8679A96}|DataInsertExample\\DataInsertExample.csproj|solutionrelative:datainsertexample\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B37BDC6B-A03E-4EEB-ACCB-6040A8679A96}|DataInsertExample\\DataInsertExample.csproj|c:\\users\\sabir\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\datainsertexample\\datainsertexample\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B37BDC6B-A03E-4EEB-ACCB-6040A8679A96}|DataInsertExample\\DataInsertExample.csproj|solutionrelative:datainsertexample\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B37BDC6B-A03E-4EEB-ACCB-6040A8679A96}|DataInsertExample\\DataInsertExample.csproj|c:\\users\\sabir\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\datainsertexample\\datainsertexample\\views\\home\\corporativesales.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B37BDC6B-A03E-4EEB-ACCB-6040A8679A96}|DataInsertExample\\DataInsertExample.csproj|solutionrelative:datainsertexample\\views\\home\\corporativesales.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B37BDC6B-A03E-4EEB-ACCB-6040A8679A96}|DataInsertExample\\DataInsertExample.csproj|c:\\users\\sabir\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\datainsertexample\\datainsertexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B37BDC6B-A03E-4EEB-ACCB-6040A8679A96}|DataInsertExample\\DataInsertExample.csproj|solutionrelative:datainsertexample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B37BDC6B-A03E-4EEB-ACCB-6040A8679A96}|DataInsertExample\\DataInsertExample.csproj|c:\\users\\sabir\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\datainsertexample\\datainsertexample\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B37BDC6B-A03E-4EEB-ACCB-6040A8679A96}|DataInsertExample\\DataInsertExample.csproj|solutionrelative:datainsertexample\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B37BDC6B-A03E-4EEB-ACCB-6040A8679A96}|DataInsertExample\\DataInsertExample.csproj|c:\\users\\sabir\\onedrive\\\u0440\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\datainsertexample\\datainsertexample\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B37BDC6B-A03E-4EEB-ACCB-6040A8679A96}|DataInsertExample\\DataInsertExample.csproj|solutionrelative:datainsertexample\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeVM.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\DataInsertExample\\DataInsertExample\\ViewModels\\HomeVM.cs",
+              "RelativeDocumentMoniker": "DataInsertExample\\ViewModels\\HomeVM.cs",
+              "ToolTip": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\DataInsertExample\\DataInsertExample\\ViewModels\\HomeVM.cs",
+              "RelativeToolTip": "DataInsertExample\\ViewModels\\HomeVM.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T12:30:56.316Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\DataInsertExample\\DataInsertExample\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "DataInsertExample\\Models\\Teacher.cs",
+              "ToolTip": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\DataInsertExample\\DataInsertExample\\Models\\Teacher.cs",
+              "RelativeToolTip": "DataInsertExample\\Models\\Teacher.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAxwAUAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T11:36:46.823Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\DataInsertExample\\DataInsertExample\\Views\\Home\\Details.cshtml",
+              "RelativeDocumentMoniker": "DataInsertExample\\Views\\Home\\Details.cshtml",
+              "ToolTip": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\DataInsertExample\\DataInsertExample\\Views\\Home\\Details.cshtml",
+              "RelativeToolTip": "DataInsertExample\\Views\\Home\\Details.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T11:17:59.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\DataInsertExample\\DataInsertExample\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "DataInsertExample\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\DataInsertExample\\DataInsertExample\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "DataInsertExample\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T10:37:23.309Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\DataInsertExample\\DataInsertExample\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "DataInsertExample\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\DataInsertExample\\DataInsertExample\\Models\\Student.cs",
+              "RelativeToolTip": "DataInsertExample\\Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T10:29:27.592Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CorporativeSales.cshtml",
+              "DocumentMoniker": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\DataInsertExample\\DataInsertExample\\Views\\Home\\CorporativeSales.cshtml",
+              "RelativeDocumentMoniker": "DataInsertExample\\Views\\Home\\CorporativeSales.cshtml",
+              "ToolTip": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\DataInsertExample\\DataInsertExample\\Views\\Home\\CorporativeSales.cshtml",
+              "RelativeToolTip": "DataInsertExample\\Views\\Home\\CorporativeSales.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T10:21:42.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\DataInsertExample\\DataInsertExample\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "DataInsertExample\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\DataInsertExample\\DataInsertExample\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "DataInsertExample\\Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T10:17:59.321Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\DataInsertExample\\DataInsertExample\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "DataInsertExample\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\DataInsertExample\\DataInsertExample\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "DataInsertExample\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-11-19T10:16:46.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\DataInsertExample\\DataInsertExample\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "DataInsertExample\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\DataInsertExample\\DataInsertExample\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "DataInsertExample\\Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAwCoAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T10:12:39.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\DataInsertExample\\DataInsertExample\\Program.cs",
+              "RelativeDocumentMoniker": "DataInsertExample\\Program.cs",
+              "ToolTip": "C:\\Users\\sabir\\OneDrive\\\u0420\u0430\u0431\u043E\u0447\u0438\u0439 \u0441\u0442\u043E\u043B\\DataInsertExample\\DataInsertExample\\Program.cs",
+              "RelativeToolTip": "DataInsertExample\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-19T10:08:50.708Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

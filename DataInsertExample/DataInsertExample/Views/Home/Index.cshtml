@@ -1,0 +1,95 @@
+﻿@using DataInsertExample.Models
+@using DataInsertExample.ViewModels
+
+@model HomeVM
+
+
+
+
+
+<ul>
+
+    @foreach (var student in Model.Students)
+    {
+        <li>@student.Id @student.Name @student.Surname</li>
+    }
+</ul>
+
+
+
+<table border="1"> 
+
+    <thead>
+        <tr>
+            <th>
+                Id
+            </th>
+        
+        
+            <th>
+                Name
+            </th>
+
+        
+        
+            <th>
+                Salary
+            </th>
+
+        </tr>
+    </thead>
+    <tbody>
+     
+        @foreach (Teacher teacher in Model.Teachers)
+        {
+
+            <tr>
+                <td>@teacher.Id</td>
+                <td>@teacher.Name</td>
+                <td>@teacher.Salary</td>
+            </tr>
+        }
+    </tbody>
+
+
+</table>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+@* @{
+
+    TempData["Name"] = "Salam";
+}
+<h1>Main page</h1> *@
+
+
+@* <h4>@TempData["Name"]</h4> *@
+@* <ul> *@
+    
+  @*   @foreach(Student student in ViewData["Students"] as List<Student>){
+
+        <li>@student.Id @student.Name @student.Surname</li>
+    } *@
+
+
+   @*  @foreach (Student student in ViewBag.Students)
+    {
+
+        <li>@student.Id @student.Name @student.Surname</li>
+    } *@
+
+@* </ul> *@
